@@ -73,3 +73,10 @@ footer p{
   color: black;
   font-size: 10px;
 }
+a{
+  font-size: 1em;
+    font-weight: inherit;
+    font-style: inherit;
+    text-decoration: none;
+    color: inherit;
+}
